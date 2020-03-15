@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705646427247",
+    "firebase_url": "https://phonenumauth-efea2.firebaseio.com",
+    "project_id": "phonenumauth-efea2",
+    "storage_bucket": "phonenumauth-efea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705646427247:android:eb81e7cd208cd1d96d619a",
+        "android_client_info": {
+          "package_name": "com.jbz.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705646427247-8dv1o4995h3vfvm9lkmee1kljuii8mkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jbz.phone_auth",
+            "certificate_hash": "76f99d1d3222dde0ee98fda51bbfd82f2dddba88"
+          }
+        },
+        {
+          "client_id": "705646427247-r6mvsqupmki7rs4kvefj0h0rk1go8vvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "--YOUR API KEY HERE--"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705646427247-r6mvsqupmki7rs4kvefj0h0rk1go8vvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
